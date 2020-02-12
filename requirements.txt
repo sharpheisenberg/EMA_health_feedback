@@ -1,5 +1,6 @@
-tensorflow==1.12.0
-scikit-learn==0.18.1
+tensorflow==2.1.0
+tensorflow-datasets==2.0.0
+scikit-learn==0.22.0
 pandas==0.20.3
 scipy==1.0.1
 numpy==1.17.0
@@ -8,3 +9,4 @@ tensorflow_hub==0.7.0
 xlrd==1.2.0
 jupyter==1.0.0
 matplotlib==2.2.2
+wordcloud==2.2.2
